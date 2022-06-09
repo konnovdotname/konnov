@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rar &#8212; Киевское направление</title>
+	<atom:link href="https://konnov.name/tag/rar/feed" rel="self" type="application/rss+xml" />
+	<link>https://konnov.name</link>
+	<description>Сайт о путешествиях и разных вылазках.</description>
+	<lastBuildDate>Sat, 23 Oct 2021 07:26:00 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://konnov.name/wp-content/uploads/2022/06/cropped-ico-6399466-6783971-32x32.png</url>
+	<title>rar &#8212; Киевское направление</title>
+	<link>https://konnov.name</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>UNAR замена несвободному unrar архиватору</title>
+		<link>https://konnov.name/unar-zamena-nesvobodnomu-unrar-arhivatoru</link>
+		
+		<dc:creator><![CDATA[Киевское направление]]></dc:creator>
+		<pubDate>Sat, 23 Oct 2021 07:26:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[rar]]></category>
+		<guid isPermaLink="false">https://konnov.name/unar-%d0%b7%d0%b0%d0%bc%d0%b5%d0%bd%d0%b0-%d0%bd%d0%b5%d1%81%d0%b2%d0%be%d0%b1%d0%be%d0%b4%d0%bd%d0%be%d0%bc%d1%83-unrar-%d0%b0%d1%80%d1%85%d0%b8%d0%b2%d0%b0%d1%82%d0%be%d1%80%d1%83</guid>
+
+					<description><![CDATA[Абсолютно случайно узнал, что есть утилита unar &#8212; которая помогает разархивировать архивы .rar Да, до сих пор есть уникумы которые информацию помещают в закрытый и несвободный архиватор .rar и чтобы этот архив посмотреть, многим приходилось устанавливать несвободное и закрытое ПО. Теперь данная проблема решена, unar &#8212; свободная и кроссплатформенная программа. Правда я не совсем понимаю… <span class="read-more"><a href="https://konnov.name/unar-zamena-nesvobodnomu-unrar-arhivatoru">Читать далее &#187;</a></span>]]></description>
+										<content:encoded><![CDATA[<p>Абсолютно случайно узнал, что есть утилита unar &mdash; которая помогает разархивировать архивы .rar Да, до сих пор есть уникумы которые информацию помещают в закрытый и несвободный архиватор .rar и чтобы этот архив посмотреть, многим приходилось устанавливать несвободное и закрытое ПО. Теперь данная проблема решена, unar &mdash; свободная и кроссплатформенная программа. Правда я не совсем понимаю зачем на...</p>
+<p><a href="https://konnov.name/unar-zamena-nesvobodnomu-unrar-arhivatoru" rel="nofollow">Источник</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
