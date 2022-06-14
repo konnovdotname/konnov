@@ -2,3 +2,4 @@ User-agent: *
 Disallow: /tag/
 Disallow: /category/
 Disallow: /author/
+Disallow: /wp-json/
