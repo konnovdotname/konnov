@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Варна &#8212; Киевское направление</title>
+	<atom:link href="https://konnov.name/tag/varna/feed/" rel="self" type="application/rss+xml" />
+	<link>https://konnov.name</link>
+	<description>Сайт о путешествиях и разных вылазках.</description>
+	<lastBuildDate>Tue, 18 Aug 2015 19:41:00 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://konnov.name/wp-content/uploads/2022/06/cropped-ico-6399466-6783971-32x32.png</url>
+	<title>Варна &#8212; Киевское направление</title>
+	<link>https://konnov.name</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Прогулка в городе Варна</title>
+		<link>https://konnov.name/progulka-v-gorode-varna/</link>
+		
+		<dc:creator><![CDATA[Киевское направление]]></dc:creator>
+		<pubDate>Tue, 18 Aug 2015 19:41:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Болгария]]></category>
+		<category><![CDATA[Варна]]></category>
+		<category><![CDATA[ПУТЕШЕСТВИЯ]]></category>
+		<guid isPermaLink="false">https://konnov.name/%d0%bf%d1%80%d0%be%d0%b3%d1%83%d0%bb%d0%ba%d0%b0-%d0%b2-%d0%b3%d0%be%d1%80%d0%be%d0%b4%d0%b5-%d0%b2%d0%b0%d1%80%d0%bd%d0%b0</guid>
+
+					<description><![CDATA[Приехали на прогулку в город Варна. Вообщем как приехали, так и сразу захотели уехать. Мест где оставить машину нет даже на платных парковках. В общем ездили по центру минут 30 в поисках парковки. Нашли, кое-как припарковались и пошли гулять. В Варне я уже не первый раз — за 5 лет Варна полностью изменилась. Видно что… <span class="read-more"><a href="https://konnov.name/progulka-v-gorode-varna/">Читать далее &#187;</a></span>]]></description>
+										<content:encoded><![CDATA[<p>Приехали на прогулку в город Варна. Вообщем как приехали, так и сразу захотели уехать. Мест где оставить машину нет даже на платных парковках. В общем ездили по центру минут 30 в поисках парковки. Нашли, кое-как припарковались и пошли гулять. В Варне я уже не первый раз &mdash; за 5 лет Варна полностью изменилась. Видно что город развивается и живет. На центральных улицах по сей день можно встретить как...</p>
+<p><a href="https://konnov.name/progulka-v-gorode-varna/" rel="nofollow">Источник</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
