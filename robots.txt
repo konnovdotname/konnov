@@ -3,3 +3,7 @@ Disallow: /tag/
 Disallow: /category/
 Disallow: /author/
 Disallow: /wp-json/
+Disallow: /map/
+Disallow: /2012/
+Disallow: /2020/
+Disallow: /2022/
