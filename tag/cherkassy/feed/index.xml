@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Черкассы &#8212; Киевское направление</title>
+	<atom:link href="https://konnov.name/tag/cherkassy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://konnov.name</link>
+	<description>Сайт о путешествиях и разных вылазках.</description>
+	<lastBuildDate>Thu, 14 Jul 2011 12:18:00 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://konnov.name/wp-content/uploads/2022/06/cropped-ico-6399466-6783971-32x32.png</url>
+	<title>Черкассы &#8212; Киевское направление</title>
+	<link>https://konnov.name</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Черкассы &#8212; первый город, который я посетил из Киева</title>
+		<link>https://konnov.name/cherkassy-pervyj-gorod-kotoryj-ya-poset/</link>
+		
+		<dc:creator><![CDATA[Киевское направление]]></dc:creator>
+		<pubDate>Thu, 14 Jul 2011 12:18:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[ПУТЕШЕСТВИЯ]]></category>
+		<category><![CDATA[Украина]]></category>
+		<category><![CDATA[Черкасская область]]></category>
+		<category><![CDATA[Черкассы]]></category>
+		<guid isPermaLink="false">https://konnov.name/%d1%87%d0%b5%d1%80%d0%ba%d0%b0%d1%81%d1%81%d1%8b-%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b9-%d0%b3%d0%be%d1%80%d0%be%d0%b4-%d0%ba%d0%be%d1%82%d0%be%d1%80%d1%8b%d0%b9-%d1%8f-%d0%bf%d0%be%d1%81%d0%b5%d1%82</guid>
+
+					<description><![CDATA[Ездил в город Черкассы и хочу про этот город и рассказать. Доехать можно по разному, но я ехал от ст.метро Черниговская на маршрутке. Нам как всегда очень «повезло». Представьте себе — переделанная маршрутка в которую добавили несколько кресел, ноги реально деть некуда, так как они упираются в спинку кресла соседа. Сзади нас сели мужик и… <span class="read-more"><a href="https://konnov.name/cherkassy-pervyj-gorod-kotoryj-ya-poset/">Читать далее &#187;</a></span>]]></description>
+										<content:encoded><![CDATA[<p>Ездил в город Черкассы и хочу про этот город и рассказать. Доехать можно по разному, но я ехал от ст.метро Черниговская на маршрутке. Нам как всегда очень &laquo;повезло&raquo;. Представьте себе &mdash; переделанная маршрутка в которую добавили несколько кресел, ноги реально деть некуда, так как они упираются в спинку кресла соседа. Сзади нас сели мужик и женщина довольно крупного телосложения и ещё двоих детей на...</p>
+<p><a href="https://konnov.name/cherkassy-pervyj-gorod-kotoryj-ya-poset/" rel="nofollow">Источник</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

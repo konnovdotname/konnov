@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Чоп &#8212; Киевское направление</title>
+	<atom:link href="https://konnov.name/tag/chop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://konnov.name</link>
+	<description>Сайт о путешествиях и разных вылазках.</description>
+	<lastBuildDate>Wed, 22 Apr 2015 05:15:00 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://konnov.name/wp-content/uploads/2022/06/cropped-ico-6399466-6783971-32x32.png</url>
+	<title>Чоп &#8212; Киевское направление</title>
+	<link>https://konnov.name</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Чоп &#8212; транзитный город ни о чём</title>
+		<link>https://konnov.name/chop-tranzitnyj-gorod-ni-o-chyom/</link>
+		
+		<dc:creator><![CDATA[Киевское направление]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2015 05:15:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Закарпатская область]]></category>
+		<category><![CDATA[ПУТЕШЕСТВИЯ]]></category>
+		<category><![CDATA[Украина]]></category>
+		<category><![CDATA[Чоп]]></category>
+		<guid isPermaLink="false">https://konnov.name/%d1%87%d0%be%d0%bf-%d1%82%d1%80%d0%b0%d0%bd%d0%b7%d0%b8%d1%82%d0%bd%d1%8b%d0%b9-%d0%b3%d0%be%d1%80%d0%be%d0%b4-%d0%bd%d0%b8-%d0%be-%d1%87%d1%91%d0%bc</guid>
+
+					<description><![CDATA[Трасса Киев-Чоп. С Киевом знакомы все, а про город Чоп никто ничего не знает толком. Решили прокатиться посмотреть что это за город и что он из себя представляет. По сути ничего особенного. Указатель дублируется на венгерский язык. Официально 40% населения — венгры. По одной стороне дороги &#8212; украинцы, по другую сторону &#8212; венгры. Как рассказал… <span class="read-more"><a href="https://konnov.name/chop-tranzitnyj-gorod-ni-o-chyom/">Читать далее &#187;</a></span>]]></description>
+										<content:encoded><![CDATA[<p>Трасса Киев-Чоп. С Киевом знакомы все, а про город Чоп никто ничего не знает толком. Решили прокатиться посмотреть что это за город и что он из себя представляет. По сути ничего особенного. Указатель дублируется на венгерский язык. Официально 40% населения &mdash; венгры. По одной стороне дороги &mdash; украинцы, по другую сторону &mdash; венгры. Как рассказал мне один местный житель венгры как и украинцы очень...</p>
+<p><a href="https://konnov.name/chop-tranzitnyj-gorod-ni-o-chyom/" rel="nofollow">Источник</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
