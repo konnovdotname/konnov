@@ -7,3 +7,4 @@ Disallow: /map/
 Disallow: /2012/
 Disallow: /2020/
 Disallow: /2022/
+Disallow: /?p
