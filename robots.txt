@@ -9,3 +9,6 @@ Disallow: /2020/
 Disallow: /2022/
 Disallow: /?p
 Disallow: /page/
+Disallow: /video/
+Disallow: /photos/
+Disallow: /friendsactivity
