@@ -12,3 +12,9 @@ Disallow: /page/
 Disallow: /video/
 Disallow: /photo/
 Disallow: /friendsactivity
+
+User-Agent: spbot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
