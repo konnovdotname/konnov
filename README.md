@@ -1,2 +1,1 @@
-Этот репозиторий для сайта https://konnov.name
-Чтобы не удалили репозиторий.
+Архив сайта <a href="https://konnov.name/index2.html">тут</a>
