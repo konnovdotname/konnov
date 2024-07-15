@@ -36,3 +36,6 @@ Disallow: /
 
 User-agent: GPTBot
 Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
