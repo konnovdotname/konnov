@@ -1,19 +1,19 @@
 User-agent: *
-Disallow: /tag/
-Disallow: /category/
-Disallow: /author/
-Disallow: /wp-json/
-Disallow: /map/
-Disallow: /2012/
-Disallow: /2020/
-Disallow: /2022/
-Disallow: /?p
-Disallow: /page/
-Disallow: /video/
-Disallow: /photo/
-Disallow: /friendsactivity
+Disallow: /old/tag/
+Disallow: /old/category/
+Disallow: /old/author/
+Disallow: /old/wp-json/
+Disallow: /old/map/
+Disallow: /old/2012/
+Disallow: /old/2020/
+Disallow: /old/2022/
+Disallow: /old/?p
+Disallow: /old/page/
+Disallow: /old/video/
+Disallow: /old/photo/
+Disallow: /old/friendsactivity
 
-User-Agent: spbot
+User-agent: spbot
 Disallow: /
 
 User-agent: AhrefsBot
@@ -39,3 +39,5 @@ Disallow: /
 
 User-agent: Applebot-Extended
 Disallow: /
+
+Sitemap: https://konnov.name/old/sitemap.xml
